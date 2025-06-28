@@ -1,8 +1,4 @@
----
 
-## 📄 `Sky-HyEV/prompts/Prompt_Collection.md`（English）
-
-```markdown
 # Sky-HyEV Prompt Template Collection
 
 Below is a list of prompt templates created for each model and module of the Sky-HyEV project.
