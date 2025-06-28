@@ -84,4 +84,4 @@ This project was developed by [Your Name or Team] using ChatGPT-4, with all prom
 
 ## 📫 Contact
 
-For inquiries or collaboration, please reach out via GitHub Issues or [your-email@example.com].
+For inquiries or collaboration, please reach out via GitHub Issues or [shin3t72@gmail.com].
