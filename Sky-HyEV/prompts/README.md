@@ -23,11 +23,12 @@ Please create a design specification for the AI control chip (28nm FD-SOI) of th
 ■ Key focus points: Real-time inference capability, MRAM rewrite endurance, low-latency control
 
 See Prompt_Collection.md for the full list.
+```
 ---
 
 ## 📄 `Sky-HyEV/prompts/Prompt_Collection.md`（English）
 
-```markdown
+
 # Sky-HyEV Prompt Template Collection
 
 Below is a list of prompt templates created for each model and module of the Sky-HyEV project.
