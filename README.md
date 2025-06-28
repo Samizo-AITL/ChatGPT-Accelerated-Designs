@@ -1,4 +1,4 @@
-🚀 ChatGPT-Accelerated-Designs
+## 🚀 ChatGPT-Accelerated-Designs
 
 Welcome to the ChatGPT-Accelerated-Designs repository.  
 This project demonstrates how large-scale hardware specification and system design can be rapidly created and documented using ChatGPT as an AI design co-pilot.  
