@@ -56,7 +56,7 @@ The key to rapid generation was a **three-part strategy**:
 ---
 
 ## 📁 Repository Structure
-
+```
 /Sky-HyEV/
 │
 ├── /StandardModel/        # 8 entry-level spec documents
@@ -64,7 +64,7 @@ The key to rapid generation was a **three-part strategy**:
 ├── /MilitaryModel/        # 7 high-reliability & educational modules
 ├── /prompts/              # Prompt templates used for generation
 └── /examples/             # (Optional) Spec document examples
-
+```
 ---
 
 ## 🔄 Reproducibility
